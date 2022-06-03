@@ -1,5 +1,7 @@
 # Option functions pattern in Go
 
+Original link on medium https://medium.com/@perederei/option-functions-pattern-golang-d76f519b1d60
+
 Option functions pattern is a straightforward habit that allows us to overwrite default values..
 
 Envision you are the creator of the new server. Your server has default values: host, maximum idle connections, and 10+ others.
